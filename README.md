@@ -35,6 +35,13 @@ A professional **Car Black Box system** implemented on **PIC16F877A microcontrol
 
 ---
 
+## 📷 Circuit / Board View
+
+Here is the PIC16F877A board setup in PICGENIUS:
+
+![PIC16F877A Board](picgenius_board.png)
+
+---
 ## 🎯 Features
 
 ### 🖥️ Real-time Dashboard
