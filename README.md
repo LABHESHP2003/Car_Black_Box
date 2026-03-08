@@ -509,6 +509,10 @@ Car_Black_Box/
 
 ---
 
+## 📥 Download
+You can download the project files here: [Download ZIP](https://github.com/LABHESHP2003/Car_Black_Box/archive/refs/heads/main.zip)
+---
+
 ## 👨‍💻 Author
 
 **Labhesh Patil**
