@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/Language-C-blue.svg">
   <img src="https://img.shields.io/badge/Interface-I2C-orange.svg">
   <img src="https://img.shields.io/badge/RTC-DS1307-green.svg">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg">
   <img src="https://img.shields.io/badge/Status-Stable-brightgreen.svg">
 </p>
 
@@ -531,6 +532,10 @@ You can download the project files here: [Download ZIP](https://github.com/LABHE
 ## 📄 License
 
 MIT License © 2025 Labhesh Patil
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
