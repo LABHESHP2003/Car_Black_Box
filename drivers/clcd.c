@@ -1,9 +1,11 @@
-/*
- * File:   clcd.c
- * Author: labhe
- *
- * Created on December 6, 2025, 9:30 PM
- */
+/***************************************************************************************************************************************************
+* Author         : Labhesh Patil
+* Date           : December 6, 2025
+* File           : clcd.c
+* Title          : Character LCD driver
+* Description    :Provides initialization, character printing, string printing,
+*                 and cursor positioning functions.
+****************************************************************************************************************************************************/
 
 
 #include <xc.h>

@@ -1,9 +1,11 @@
-/* 
- * File:   dkp.h
- * Author: labhe
- *
- * Created on December 6, 2025, 9:28 PM
- */
+/***************************************************************************************************************************************************
+* Author         : Labhesh Patil
+* Date           : December 6, 2025
+* File           : dkp.h
+* Title          : Digital keypad header
+* Description    : Keypad port definitions, key mask values, and mode definitions.
+*                 Defines SW1 through SW6 with their corresponding bit patterns.
+****************************************************************************************************************************************************/
 
 #ifndef DKP_H
 #define	DKP_H

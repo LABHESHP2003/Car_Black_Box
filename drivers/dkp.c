@@ -1,9 +1,11 @@
-/*
- * File:   dkp.c
- * Author: labhe
- *
- * Created on December 6, 2025, 9:30 PM
- */
+/***************************************************************************************************************************************************
+* Author         : Labhesh Patil
+* Date           : December 6, 2025
+* File           : dkp.c
+* Title          : Digital keypad driver
+* Description    : Handles digital keypad input with two detection modes:
+*                 LEVEL mode for continuous reading, STATE mode for edge-triggered.
+****************************************************************************************************************************************************/
 
 #include <xc.h>
 #include "dkp.h"

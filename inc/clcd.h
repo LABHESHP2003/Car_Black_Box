@@ -1,9 +1,11 @@
-/* 
- * File:   clcd.h
- * Author: labhe
- *
- * Created on December 6, 2025, 9:27 PM
- */
+/***************************************************************************************************************************************************
+* Author         : Labhesh Patil
+* Date           : December 6, 2025
+* File           : clcd.h
+* Title          : CLCD header file
+* Description    : Pin definitions, command macros, and function declarations for
+*                 CLCD operations. Defines line addresses.
+****************************************************************************************************************************************************/
 
 #ifndef CLCD_H
 #define	CLCD_H

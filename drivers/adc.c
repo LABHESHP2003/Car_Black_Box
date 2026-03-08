@@ -1,11 +1,15 @@
-/*
- * File:   adc.c
- * Author: labhe
- *
- * Created on December 6, 2025, 9:29 PM
- */
+/***************************************************************************************************************************************************
+* Author         : Labhesh Patil
+* Date           : December 6, 2025
+* File           : adc.c
+* Title          : ADC module driver
+* Description    : Initializes and controls the Analog-to-Digital Converter module.
+*                 Reads analog value from potentiometer (channel 0) and returns
+*                 10-bit digital value (0-1023) for speed calculation.
+****************************************************************************************************************************************************/
 
 #include <xc.h>
+#include "adc.h"
 
 void init_adc(void)
 {

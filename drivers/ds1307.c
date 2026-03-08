@@ -1,10 +1,12 @@
-/*
- * File:   ds1307.c
- * Author: labhe
- *
- * Created on December 6, 2025, 9:30 PM
- */
-
+/***************************************************************************************************************************************************
+* Author         : Labhesh Patil
+* Date           : December 6, 2025
+* File           : ds1307.c
+* Title          : RTC DS1307 driver
+* Description    : I2C-based driver for DS1307 Real-Time Clock.
+*                 Provides functions to initialize RTC, read/write registers,
+*                 get current time, and display formatted time on CLCD.
+****************************************************************************************************************************************************/
 #include <xc.h>
 #include "i2c.h"
 #include "main.h"

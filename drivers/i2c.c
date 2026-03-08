@@ -1,9 +1,12 @@
-/*
- * File:   i2c.c
- * Author: labhe
- *
- * Created on December 6, 2025, 9:30 PM
- */
+/***************************************************************************************************************************************************
+* Author         : Labhesh Patil
+* Date           : December 6, 2025
+* File           : i2c.c
+* Title          : I2C master driver
+* Description    : Implements I2C communication in master mode.
+*                 Provides start, repeated start, stop, read, and write functions
+*                 with proper bus timing and status checking.
+****************************************************************************************************************************************************/
 
 
 #include <xc.h>

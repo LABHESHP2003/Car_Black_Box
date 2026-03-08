@@ -1,9 +1,12 @@
-/*
- * File:   UART.c
- * Author: labhesh
- *
- */
-
+/***************************************************************************************************************************************************
+* Author         : Labhesh Patil
+* Date           : December 2025
+* File           : uart.c
+* Title          : UART driver
+* Description    : Implements asynchronous serial communication.
+*                 Provides initialization, character transmit/receive,
+*                 and string transmission functions for log download.
+****************************************************************************************************************************************************/
 #include <xc.h>
 #include "uart.h"
 
